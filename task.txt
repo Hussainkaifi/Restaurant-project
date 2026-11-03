@@ -1,2 +1,5 @@
-"Software Engineering Assignment" 
-"Branch task completed on feature-restaurant"
+=== HUSSAIN'S GRILL & DESSERTS MENU ===
+1. Special Chicken Biryani - PKR 450
+2. Zinger Burger - PKR 380
+3. BBQ Platter - PKR 1200
+4. Lava Cake Dessert - PKR 250
